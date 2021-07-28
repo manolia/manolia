@@ -9,6 +9,7 @@ hi, im manolia 🖤.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=manolia&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A)
 <br>
 
 current projects
