@@ -9,8 +9,8 @@ hi, im manolia 🖤.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
-<img src="https://komarev.com/ghpvc/?username=manolia&style=flat-square">
 <br>
+<img src="https://komarev.com/ghpvc/?username=manolia&style=flat-square">
 
 current projects
 <br>
