@@ -10,7 +10,7 @@ hi, im manolia 🖤.
 # 📖 reverse engineering, computer science
 ```
 <br>
-<img src="https://komarev.com/ghpvc/?username=manolia&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=manolia&color=blueviolet&style=flat-square">
 
 current projects
 <br>
