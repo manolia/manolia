@@ -14,13 +14,14 @@ hi, im manolia 🖤.
 
 current projects
 <br>
-- [slit discord selfbot](https://github.com/manolia/Slit-Selfbot)
-- [file host & mail server](https://suicide.ooo)
+- nothing because lazy
   
 <br>
 
 past projects
 <br>
+- [slit discord selfbot](https://github.com/manolia/Slit-Selfbot)
+- file host & mail server
 - external rust cheat
 - external osu cheat
 - internal csgo cheat
